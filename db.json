@@ -1,5 +1,71 @@
-[{"kary_id":1,"nama":"Jennette","alamat":"China","no_hp":"442-205-3210","tgl_lahir":"6/11/2022","image":"error: wrong number of arguments (given 3, expected 0)"},
-{"kary_id":2,"nama":"Becka","alamat":"Indonesia","no_hp":"714-766-1941","tgl_lahir":"9/6/2022","image":"error: wrong number of arguments (given 3, expected 0)"},
-{"kary_id":3,"nama":"Rhetta","alamat":"Brazil","no_hp":"407-622-1168","tgl_lahir":"2/6/2023","image":"error: wrong number of arguments (given 3, expected 0)"},
-{"kary_id":4,"nama":"Cordell","alamat":"United Arab Emirates","no_hp":"973-825-5508","tgl_lahir":"12/26/2022","image":"error: wrong number of arguments (given 3, expected 0)"},
-{"kary_id":5,"nama":"Jerry","alamat":"Mauritius","no_hp":"237-565-7444","tgl_lahir":"3/23/2023","image":"error: wrong number of arguments (given 3, expected 0)"},
+[{
+  "kary_id": 1,
+  "nama": "Sally",
+  "alamat": "Philippines",
+  "no_hp": "166-610-6406",
+  "tgl_lahir": "10/10/2022",
+  "image": "error: wrong number of arguments (given 3, expected 0)"
+}, {
+  "kary_id": 2,
+  "nama": "Merilyn",
+  "alamat": "Portugal",
+  "no_hp": "921-631-3408",
+  "tgl_lahir": "3/9/2023",
+  "image": "error: wrong number of arguments (given 3, expected 0)"
+}, {
+  "kary_id": 3,
+  "nama": "Daphene",
+  "alamat": "Indonesia",
+  "no_hp": "595-751-3443",
+  "tgl_lahir": "11/29/2022",
+  "image": "error: wrong number of arguments (given 3, expected 0)"
+}, {
+  "kary_id": 4,
+  "nama": "Ginny",
+  "alamat": "Indonesia",
+  "no_hp": "569-319-6305",
+  "tgl_lahir": "3/6/2023",
+  "image": "error: wrong number of arguments (given 3, expected 0)"
+}, {
+  "kary_id": 5,
+  "nama": "Candida",
+  "alamat": "Indonesia",
+  "no_hp": "588-288-0378",
+  "tgl_lahir": "5/15/2022",
+  "image": "error: wrong number of arguments (given 3, expected 0)"
+}, {
+  "kary_id": 6,
+  "nama": "Carolin",
+  "alamat": "Indonesia",
+  "no_hp": "797-863-4422",
+  "tgl_lahir": "10/29/2022",
+  "image": "error: wrong number of arguments (given 3, expected 0)"
+}, {
+  "kary_id": 7,
+  "nama": "Georgie",
+  "alamat": "Albania",
+  "no_hp": "792-140-4750",
+  "tgl_lahir": "3/14/2023",
+  "image": "error: wrong number of arguments (given 3, expected 0)"
+}, {
+  "kary_id": 8,
+  "nama": "Wynn",
+  "alamat": "China",
+  "no_hp": "558-643-9035",
+  "tgl_lahir": "8/7/2022",
+  "image": "error: wrong number of arguments (given 3, expected 0)"
+}, {
+  "kary_id": 9,
+  "nama": "Velma",
+  "alamat": "Lesotho",
+  "no_hp": "341-543-4770",
+  "tgl_lahir": "12/8/2022",
+  "image": "error: wrong number of arguments (given 3, expected 0)"
+}, {
+  "kary_id": 10,
+  "nama": "Domenico",
+  "alamat": "Indonesia",
+  "no_hp": "669-522-3625",
+  "tgl_lahir": "2/1/2023",
+  "image": "error: wrong number of arguments (given 3, expected 0)"
+}, {
